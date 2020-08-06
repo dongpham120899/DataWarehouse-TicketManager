@@ -1,0 +1,1000 @@
+1,300,Economy,2,41,Website
+2,700,Economy,92,45,Telephone
+3,200,Economy,83,39,Telephone
+4,300,Economy,38,46,Airfare office
+5,300,Economy,1,11,Airfare office
+6,800,Economy,78,17,Airfare office
+7,300,Economy,14,1,Airfare office
+8,200,Economy,13,30,Travel agency
+9,300,Economy,70,2,Travel agency
+10,700,Economy,45,19,Airfare office
+11,300,Economy,14,9,Website
+12,800,Economy,76,34,Travel agency
+13,700,Economy,54,43,Airfare office
+14,700,Economy,45,21,Airfare office
+15,300,Economy,94,8,Airfare office
+16,200,Economy,48,32,Airfare office
+17,700,Economy,33,24,Website
+18,300,Economy,23,2,Travel agency
+19,700,Economy,77,12,Travel agency
+20,300,Economy,80,4,Website
+21,700,Economy,86,43,Website
+22,200,Economy,79,39,Airfare office
+23,700,Economy,41,21,Airfare office
+24,300,Economy,84,8,Travel agency
+25,200,Economy,3,28,Airfare office
+26,300,Economy,84,47,Airfare office
+27,300,Economy,51,40,Telephone
+28,700,Economy,29,12,Telephone
+29,700,Economy,68,13,Telephone
+30,700,Economy,29,15,Telephone
+31,300,Economy,34,5,Airfare office
+32,200,Economy,15,28,Website
+33,700,Economy,56,45,Website
+34,300,Economy,14,10,Website
+35,300,Economy,19,7,Airfare office
+36,300,Economy,26,5,Telephone
+37,300,Economy,3,10,Travel agency
+38,300,Economy,98,40,Travel agency
+39,200,Economy,71,32,Airfare office
+40,300,Economy,76,3,Telephone
+41,300,Economy,41,41,Website
+42,700,Economy,56,21,Telephone
+43,300,Economy,96,40,Website
+44,700,Economy,2,22,Telephone
+45,300,Economy,11,50,Telephone
+46,700,Economy,32,25,Telephone
+47,200,Economy,82,32,Website
+48,300,Economy,62,11,Airfare office
+49,700,Economy,1,23,Website
+50,300,Economy,2,8,Telephone
+51,300,Economy,48,2,Telephone
+52,300,Economy,32,2,Airfare office
+53,800,Economy,17,18,Airfare office
+54,300,Economy,33,50,Travel agency
+55,300,Economy,59,8,Travel agency
+56,300,Economy,60,2,Airfare office
+57,300,Economy,8,46,Website
+58,700,Economy,59,13,Website
+59,700,Economy,60,36,Website
+60,700,Economy,61,12,Website
+61,300,Economy,76,10,Airfare office
+62,300,Economy,5,7,Airfare office
+63,300,Economy,36,10,Airfare office
+64,800,Economy,71,18,Telephone
+65,300,Economy,54,7,Travel agency
+66,700,Economy,95,25,Telephone
+67,300,Economy,61,3,Travel agency
+68,700,Economy,61,20,Travel agency
+69,700,Economy,24,19,Travel agency
+70,700,Economy,53,44,Website
+71,700,Economy,97,26,Airfare office
+72,300,Economy,65,46,Telephone
+73,700,Economy,5,14,Website
+74,700,Economy,8,12,Telephone
+75,300,Economy,90,4,Travel agency
+76,800,Economy,42,18,Travel agency
+77,300,Economy,11,10,Airfare office
+78,700,Economy,92,38,Telephone
+79,300,Economy,74,11,Travel agency
+80,200,Economy,4,28,Telephone
+81,300,Economy,53,8,Website
+82,700,Economy,32,23,Airfare office
+83,700,Economy,86,22,Telephone
+84,700,Economy,3,19,Website
+85,700,Economy,57,42,Website
+86,200,Economy,5,31,Website
+87,300,Economy,56,41,Website
+88,800,Economy,62,35,Telephone
+89,300,Economy,3,10,Website
+90,800,Economy,48,17,Telephone
+91,700,Economy,35,20,Website
+92,300,Economy,6,2,Airfare office
+93,800,Economy,29,27,Website
+94,300,Economy,42,3,Airfare office
+95,300,Economy,32,40,Airfare office
+96,700,Economy,23,19,Travel agency
+97,800,Economy,1,17,Website
+98,300,Economy,57,6,Travel agency
+99,700,Economy,56,42,Website
+100,300,Economy,75,50,Travel agency
+101,700,Economy,1,45,Website
+102,700,Economy,92,43,Airfare office
+103,700,Economy,47,38,Travel agency
+104,700,Economy,97,37,Travel agency
+105,300,Economy,21,11,Travel agency
+106,200,Economy,49,32,Travel agency
+107,700,Economy,93,43,Airfare office
+108,800,Economy,58,27,Website
+109,700,Economy,30,45,Website
+110,300,Economy,92,47,Airfare office
+111,200,Economy,58,39,Airfare office
+112,200,Economy,90,32,Airfare office
+113,300,Economy,49,9,Airfare office
+114,300,Economy,48,49,Airfare office
+115,800,Economy,72,16,Website
+116,300,Economy,77,3,Telephone
+117,700,Economy,35,26,Travel agency
+118,300,Economy,11,48,Telephone
+119,300,Economy,14,11,Airfare office
+120,200,Economy,39,32,Airfare office
+121,800,Economy,45,18,Travel agency
+122,300,Economy,86,41,Airfare office
+123,300,Economy,25,50,Telephone
+124,300,Economy,100,3,Website
+125,800,Economy,61,18,Telephone
+126,300,Economy,52,46,Airfare office
+127,700,Economy,68,36,Website
+128,800,Economy,27,27,Travel agency
+129,700,Economy,92,26,Travel agency
+130,200,Economy,86,28,Airfare office
+131,700,Economy,93,42,Telephone
+132,300,Economy,51,7,Travel agency
+133,700,Economy,52,26,Airfare office
+134,200,Economy,86,28,Telephone
+135,300,Economy,55,6,Airfare office
+136,300,Economy,5,41,Website
+137,300,Economy,91,4,Travel agency
+138,800,Economy,72,27,Travel agency
+139,300,Economy,19,6,Telephone
+140,300,Economy,84,2,Travel agency
+141,800,Economy,19,16,Telephone
+142,700,Economy,100,20,Telephone
+143,700,Economy,20,21,Airfare office
+144,300,Economy,70,48,Travel agency
+145,700,Economy,12,19,Airfare office
+146,300,Economy,10,50,Telephone
+147,300,Economy,47,40,Travel agency
+148,700,Economy,77,38,Telephone
+149,300,Economy,28,40,Telephone
+150,300,Economy,85,1,Telephone
+151,300,Economy,35,8,Telephone
+152,800,Economy,82,35,Airfare office
+153,700,Economy,96,20,Travel agency
+154,700,Economy,78,42,Telephone
+155,700,Economy,44,21,Airfare office
+156,700,Economy,19,25,Airfare office
+157,300,Economy,15,48,Airfare office
+158,300,Economy,46,4,Airfare office
+159,800,Economy,56,27,Telephone
+160,200,Economy,33,28,Website
+161,300,Economy,83,49,Travel agency
+162,300,Economy,56,41,Travel agency
+163,300,Economy,58,5,Telephone
+164,300,Economy,35,8,Telephone
+165,700,Economy,13,15,Telephone
+166,300,Economy,11,41,Travel agency
+167,300,Economy,42,8,Website
+168,300,Economy,84,3,Travel agency
+169,800,Economy,14,34,Telephone
+170,300,Economy,63,50,Airfare office
+171,700,Economy,11,23,Telephone
+172,700,Economy,23,24,Travel agency
+173,300,Economy,12,7,Airfare office
+174,300,Economy,71,49,Airfare office
+175,700,Economy,60,21,Airfare office
+176,200,Economy,18,39,Website
+177,300,Economy,7,1,Airfare office
+178,300,Economy,76,48,Website
+179,300,Economy,72,2,Travel agency
+180,700,Economy,81,43,Travel agency
+181,700,Economy,41,37,Travel agency
+182,700,Economy,96,36,Website
+183,300,Economy,32,50,Telephone
+184,800,Economy,40,18,Airfare office
+185,200,Economy,86,39,Travel agency
+186,700,Economy,81,37,Website
+187,200,Economy,11,31,Website
+188,300,Economy,3,7,Travel agency
+189,700,Economy,79,37,Airfare office
+190,700,Economy,86,23,Telephone
+191,800,Economy,34,27,Airfare office
+192,300,Economy,32,40,Airfare office
+193,300,Economy,47,10,Travel agency
+194,200,Economy,51,31,Telephone
+195,300,Economy,31,1,Website
+196,700,Economy,58,21,Airfare office
+197,800,Economy,82,34,Telephone
+198,800,Economy,60,18,Website
+199,700,Economy,86,25,Travel agency
+200,700,Economy,92,19,Airfare office
+201,300,Economy,46,1,Airfare office
+202,300,Economy,26,11,Travel agency
+203,700,Economy,17,21,Website
+204,800,Economy,8,18,Website
+205,300,Economy,44,2,Airfare office
+206,700,Economy,4,22,Travel agency
+207,300,Economy,12,1,Telephone
+208,700,Economy,45,13,Travel agency
+209,700,Economy,83,22,Telephone
+210,700,Economy,4,13,Travel agency
+211,300,Economy,1,10,Website
+212,700,Economy,86,20,Website
+213,700,Economy,32,26,Website
+214,700,Economy,59,22,Travel agency
+215,700,Economy,87,23,Telephone
+216,700,Economy,39,45,Travel agency
+217,300,Economy,75,9,Travel agency
+218,300,Economy,29,9,Website
+219,300,Economy,98,2,Airfare office
+220,700,Economy,23,43,Travel agency
+221,300,Economy,80,6,Airfare office
+222,700,Economy,13,14,Travel agency
+223,700,Economy,46,26,Website
+224,700,Economy,29,25,Airfare office
+225,300,Economy,22,48,Airfare office
+226,800,Economy,70,27,Telephone
+227,800,Economy,84,35,Website
+228,700,Economy,74,42,Website
+229,800,Economy,87,34,Telephone
+230,700,Economy,19,36,Airfare office
+231,800,Economy,82,35,Airfare office
+232,200,Economy,1,30,Travel agency
+233,700,Economy,93,15,Telephone
+234,300,Economy,56,5,Website
+235,300,Economy,30,47,Telephone
+236,700,Economy,38,19,Website
+237,700,Economy,35,37,Telephone
+238,200,Economy,61,28,Telephone
+239,300,Economy,24,10,Travel agency
+240,300,Economy,26,1,Telephone
+241,300,Economy,51,7,Airfare office
+242,700,Economy,3,43,Airfare office
+243,300,Economy,43,50,Airfare office
+244,700,Economy,6,22,Telephone
+245,200,Economy,8,29,Website
+246,800,Economy,17,16,Telephone
+247,300,Economy,30,48,Website
+248,700,Economy,30,42,Telephone
+249,700,Economy,80,42,Website
+250,300,Economy,75,40,Travel agency
+251,700,Economy,68,15,Travel agency
+252,300,Economy,63,7,Telephone
+253,300,Economy,93,5,Website
+254,200,Economy,70,30,Airfare office
+255,700,Economy,72,37,Airfare office
+256,800,Economy,6,27,Telephone
+257,300,Economy,1,7,Telephone
+258,700,Economy,57,37,Website
+259,800,Economy,83,27,Travel agency
+260,700,Economy,41,19,Airfare office
+261,800,Economy,65,16,Telephone
+262,200,Economy,94,29,Travel agency
+263,700,Economy,22,24,Airfare office
+264,200,Economy,84,29,Travel agency
+265,200,Economy,29,31,Website
+266,300,Economy,7,5,Airfare office
+267,800,Economy,65,16,Website
+268,200,Economy,38,28,Travel agency
+269,700,Economy,13,22,Travel agency
+270,300,Economy,1,3,Travel agency
+271,700,Economy,15,25,Travel agency
+272,700,Economy,51,42,Travel agency
+273,700,Economy,47,14,Travel agency
+274,800,Economy,86,34,Telephone
+275,700,Economy,23,20,Telephone
+276,300,Economy,22,41,Telephone
+277,800,Economy,67,27,Telephone
+278,700,Economy,41,36,Airfare office
+279,300,Economy,80,1,Website
+280,700,Economy,49,43,Travel agency
+281,200,Economy,45,31,Travel agency
+282,300,Economy,54,49,Travel agency
+283,200,Economy,33,29,Airfare office
+284,700,Economy,30,22,Travel agency
+285,200,Economy,91,31,Airfare office
+286,300,Economy,58,7,Website
+287,800,Economy,76,18,Telephone
+288,300,Economy,48,6,Airfare office
+289,300,Economy,28,8,Airfare office
+290,300,Economy,52,5,Travel agency
+291,300,Economy,15,50,Airfare office
+292,700,Economy,13,24,Airfare office
+293,700,Economy,96,38,Telephone
+294,300,Economy,51,2,Travel agency
+295,300,Economy,94,5,Website
+296,300,Economy,64,40,Travel agency
+297,300,Economy,40,40,Airfare office
+298,300,Economy,59,8,Airfare office
+299,200,Economy,56,29,Website
+300,700,Economy,38,38,Travel agency
+301,300,Economy,85,7,Travel agency
+302,700,Economy,2,19,Airfare office
+303,300,Economy,5,7,Telephone
+304,200,Economy,71,33,Website
+305,300,Economy,81,48,Telephone
+306,700,Economy,96,43,Telephone
+307,300,Economy,51,4,Telephone
+308,700,Economy,31,22,Airfare office
+309,700,Economy,8,22,Travel agency
+310,700,Economy,52,36,Website
+311,300,Economy,69,11,Airfare office
+312,700,Economy,5,38,Telephone
+313,700,Economy,7,44,Website
+314,200,Economy,22,30,Travel agency
+315,200,Economy,93,28,Airfare office
+316,700,Economy,25,38,Telephone
+317,700,Economy,7,19,Website
+318,300,Economy,26,40,Telephone
+319,300,Economy,43,9,Website
+320,300,Economy,100,49,Airfare office
+321,700,Economy,35,13,Website
+322,300,Economy,48,2,Airfare office
+323,200,Economy,34,39,Telephone
+324,200,Economy,24,32,Travel agency
+325,800,Economy,87,16,Website
+326,800,Economy,89,35,Telephone
+327,700,Economy,50,26,Telephone
+328,800,Economy,20,27,Travel agency
+329,700,Economy,20,25,Travel agency
+330,700,Economy,97,20,Travel agency
+331,300,Economy,47,41,Travel agency
+332,800,Economy,28,16,Airfare office
+333,700,Economy,16,14,Travel agency
+334,800,Economy,92,17,Airfare office
+335,300,Economy,45,2,Website
+336,300,Economy,49,1,Website
+337,700,Economy,96,24,Website
+338,200,Economy,13,31,Travel agency
+339,700,Economy,92,19,Travel agency
+340,700,Economy,47,23,Telephone
+341,300,Economy,54,49,Website
+342,300,Economy,19,2,Travel agency
+343,300,Economy,50,48,Website
+344,700,Economy,45,19,Airfare office
+345,700,Economy,41,21,Travel agency
+346,800,Economy,39,17,Travel agency
+347,700,Economy,38,25,Website
+348,300,Economy,52,5,Telephone
+349,700,Economy,37,21,Airfare office
+350,200,Economy,44,28,Airfare office
+351,800,Economy,97,17,Travel agency
+352,800,Economy,37,18,Travel agency
+353,800,Economy,82,16,Telephone
+354,700,Economy,49,24,Website
+355,800,Economy,40,27,Travel agency
+356,300,Economy,30,48,Airfare office
+357,800,Economy,48,18,Website
+358,700,Economy,6,13,Telephone
+359,300,Economy,67,1,Telephone
+360,700,Economy,31,15,Travel agency
+361,700,Economy,83,37,Website
+362,200,Economy,88,29,Airfare office
+363,200,Economy,65,32,Travel agency
+364,200,Economy,48,30,Airfare office
+365,700,Economy,33,23,Website
+366,300,Economy,55,49,Telephone
+367,700,Economy,98,20,Telephone
+368,700,Economy,92,43,Website
+369,700,Economy,96,42,Telephone
+370,200,Economy,87,30,Travel agency
+371,300,Economy,17,1,Website
+372,300,Economy,9,9,Telephone
+373,300,Economy,99,50,Website
+374,200,Economy,86,33,Travel agency
+375,300,Economy,100,47,Website
+376,200,Economy,67,39,Travel agency
+377,800,Economy,77,17,Airfare office
+378,300,Economy,74,47,Travel agency
+379,300,Economy,91,8,Telephone
+380,300,Economy,31,47,Travel agency
+381,200,Economy,99,29,Airfare office
+382,200,Economy,62,31,Telephone
+383,200,Economy,73,31,Airfare office
+384,300,Economy,69,4,Website
+385,700,Economy,57,26,Airfare office
+386,200,Economy,94,31,Travel agency
+387,700,Economy,40,12,Telephone
+388,700,Economy,73,45,Website
+389,300,Economy,34,2,Airfare office
+390,300,Economy,95,6,Travel agency
+391,300,Economy,13,1,Airfare office
+392,300,Economy,99,1,Website
+393,700,Economy,53,42,Telephone
+394,200,Economy,27,33,Airfare office
+395,300,Economy,55,47,Website
+396,700,Economy,23,23,Airfare office
+397,200,Economy,57,29,Website
+398,700,Economy,12,23,Travel agency
+399,300,Economy,22,1,Airfare office
+400,300,Economy,94,5,Website
+401,300,Economy,38,48,Telephone
+402,700,Economy,6,43,Website
+403,800,Economy,91,16,Website
+404,700,Economy,18,42,Website
+405,200,Economy,28,31,Website
+406,300,Economy,8,47,Airfare office
+407,800,Economy,56,34,Airfare office
+408,300,Economy,4,3,Website
+409,300,Economy,52,47,Airfare office
+410,300,Economy,100,5,Website
+411,700,Economy,91,12,Telephone
+412,700,Economy,45,24,Travel agency
+413,300,Economy,38,3,Travel agency
+414,300,Economy,6,41,Airfare office
+415,700,Economy,3,26,Telephone
+416,200,Economy,85,31,Airfare office
+417,700,Economy,88,44,Travel agency
+418,700,Economy,41,25,Travel agency
+419,700,Economy,48,23,Travel agency
+420,700,Economy,44,13,Website
+421,700,Economy,66,42,Travel agency
+422,800,Economy,88,34,Telephone
+423,300,Economy,94,4,Website
+424,700,Economy,5,26,Travel agency
+425,300,Economy,99,5,Telephone
+426,300,Economy,24,9,Airfare office
+427,700,Economy,85,19,Website
+428,200,Economy,84,30,Airfare office
+429,800,Economy,88,35,Travel agency
+430,300,Economy,16,48,Website
+431,700,Economy,21,44,Airfare office
+432,700,Economy,55,38,Airfare office
+433,300,Economy,17,11,Travel agency
+434,300,Economy,41,9,Website
+435,300,Economy,71,49,Travel agency
+436,300,Economy,50,1,Website
+437,700,Economy,1,26,Telephone
+438,700,Economy,46,44,Airfare office
+439,800,Economy,77,35,Telephone
+440,300,Economy,54,9,Telephone
+441,200,Economy,57,31,Airfare office
+442,300,Economy,7,9,Airfare office
+443,300,Economy,71,10,Website
+444,300,Economy,44,49,Travel agency
+445,700,Economy,34,44,Website
+446,300,Economy,81,48,Website
+447,800,Economy,86,35,Telephone
+448,300,Economy,97,10,Travel agency
+449,700,Economy,93,25,Airfare office
+450,200,Economy,27,31,Website
+451,300,Economy,81,49,Website
+452,300,Economy,34,7,Telephone
+453,700,Economy,26,19,Airfare office
+454,300,Economy,52,41,Telephone
+455,700,Economy,35,24,Website
+456,700,Economy,87,37,Telephone
+457,300,Economy,74,6,Travel agency
+458,700,Economy,60,25,Travel agency
+459,800,Economy,14,18,Travel agency
+460,300,Economy,79,48,Travel agency
+461,200,Economy,5,29,Website
+462,700,Economy,14,45,Website
+463,200,Economy,62,30,Telephone
+464,700,Economy,96,37,Airfare office
+465,300,Economy,6,40,Travel agency
+466,300,Economy,53,2,Website
+467,700,Economy,90,15,Website
+468,300,Economy,59,48,Airfare office
+469,200,Economy,64,30,Telephone
+470,700,Economy,98,43,Website
+471,300,Economy,38,11,Website
+472,300,Economy,20,2,Telephone
+473,300,Economy,91,1,Website
+474,300,Economy,79,50,Website
+475,700,Economy,61,25,Travel agency
+476,800,Economy,40,27,Telephone
+477,300,Economy,88,5,Website
+478,800,Economy,3,27,Website
+479,300,Economy,52,3,Website
+480,300,Economy,11,8,Telephone
+481,700,Economy,79,15,Airfare office
+482,700,Economy,8,19,Travel agency
+483,700,Economy,100,15,Telephone
+484,300,Economy,97,5,Travel agency
+485,300,Economy,37,41,Telephone
+486,300,Economy,15,49,Telephone
+487,300,Economy,75,46,Website
+488,200,Economy,79,30,Airfare office
+489,300,Economy,89,3,Telephone
+490,800,Economy,81,17,Airfare office
+491,700,Economy,5,22,Website
+492,800,Economy,63,17,Airfare office
+493,200,Economy,66,32,Travel agency
+494,800,Economy,53,18,Travel agency
+495,700,Economy,28,25,Travel agency
+496,700,Economy,70,21,Telephone
+497,300,Economy,89,2,Travel agency
+498,300,Economy,10,5,Telephone
+499,200,Economy,21,29,Website
+500,200,Economy,73,33,Airfare office
+501,800,Economy,42,34,Website
+502,700,Economy,9,25,Airfare office
+503,300,Economy,79,11,Airfare office
+504,300,Economy,52,7,Telephone
+505,700,Economy,80,25,Website
+506,200,Economy,40,32,Telephone
+507,300,Economy,44,5,Telephone
+508,300,Economy,56,48,Telephone
+509,800,Economy,68,34,Airfare office
+510,300,Economy,98,11,Travel agency
+511,200,Economy,27,28,Website
+512,800,Economy,53,17,Website
+513,200,Economy,84,33,Website
+514,300,Economy,41,4,Telephone
+515,200,Economy,9,29,Website
+516,800,Economy,8,16,Airfare office
+517,700,Economy,54,44,Travel agency
+518,300,Economy,93,8,Travel agency
+519,300,Economy,93,9,Website
+520,700,Economy,23,42,Airfare office
+521,700,Economy,28,24,Website
+522,700,Economy,68,12,Airfare office
+523,700,Economy,15,38,Airfare office
+524,700,Economy,64,24,Telephone
+525,700,Economy,26,36,Telephone
+526,300,Economy,31,5,Airfare office
+527,800,Economy,70,35,Travel agency
+528,300,Economy,56,7,Airfare office
+529,700,Economy,38,21,Airfare office
+530,700,Economy,90,42,Telephone
+531,800,Economy,98,17,Travel agency
+532,700,Economy,2,21,Website
+533,200,Economy,90,39,Website
+534,300,Economy,64,48,Website
+535,700,Economy,21,12,Telephone
+536,200,Economy,24,32,Travel agency
+537,200,Economy,89,39,Website
+538,800,Economy,14,18,Website
+539,700,Economy,92,22,Travel agency
+540,700,Economy,75,21,Travel agency
+541,200,Economy,78,28,Travel agency
+542,200,Economy,55,31,Airfare office
+543,800,Economy,34,18,Telephone
+544,200,Economy,77,39,Airfare office
+545,300,Economy,14,49,Website
+546,300,Economy,77,11,Travel agency
+547,200,Economy,18,29,Airfare office
+548,200,Economy,57,29,Travel agency
+549,300,Economy,32,3,Telephone
+550,300,Economy,14,10,Website
+551,200,Economy,16,32,Travel agency
+552,300,Economy,32,41,Telephone
+553,700,Economy,95,13,Travel agency
+554,300,Economy,67,48,Airfare office
+555,700,Economy,67,26,Website
+556,300,Economy,18,7,Telephone
+557,700,Economy,48,21,Telephone
+558,200,Economy,18,32,Travel agency
+559,800,Economy,71,35,Telephone
+560,300,Economy,82,48,Airfare office
+561,800,Economy,39,17,Telephone
+562,200,Economy,95,30,Website
+563,300,Economy,78,10,Airfare office
+564,700,Economy,96,12,Telephone
+565,300,Economy,57,5,Website
+566,700,Economy,32,21,Website
+567,300,Economy,93,50,Telephone
+568,300,Economy,8,40,Website
+569,300,Economy,13,9,Telephone
+570,300,Economy,19,48,Website
+571,700,Economy,74,26,Airfare office
+572,200,Economy,20,31,Telephone
+573,200,Economy,45,30,Website
+574,300,Economy,69,48,Telephone
+575,700,Economy,17,24,Website
+576,300,Economy,89,49,Travel agency
+577,300,Economy,50,46,Airfare office
+578,300,Economy,95,46,Travel agency
+579,700,Economy,70,25,Telephone
+580,300,Economy,19,10,Telephone
+581,800,Economy,55,18,Airfare office
+582,700,Economy,80,22,Website
+583,300,Economy,2,40,Airfare office
+584,200,Economy,76,33,Website
+585,800,Economy,5,34,Airfare office
+586,800,Economy,28,35,Website
+587,700,Economy,85,26,Website
+588,700,Economy,41,22,Website
+589,700,Economy,88,42,Telephone
+590,300,Economy,44,10,Airfare office
+591,200,Economy,3,39,Travel agency
+592,300,Economy,17,7,Airfare office
+593,700,Economy,18,44,Airfare office
+594,700,Economy,75,14,Travel agency
+595,300,Economy,14,50,Telephone
+596,700,Economy,40,19,Airfare office
+597,200,Economy,90,33,Airfare office
+598,700,Economy,11,42,Travel agency
+599,200,Economy,13,32,Travel agency
+600,300,Economy,95,48,Website
+601,800,Economy,30,16,Travel agency
+602,300,Economy,90,8,Airfare office
+603,700,Economy,56,22,Telephone
+604,300,Economy,5,40,Telephone
+605,800,Economy,90,18,Website
+606,700,Economy,76,13,Telephone
+607,300,Economy,58,11,Telephone
+608,700,Economy,22,36,Telephone
+609,200,Economy,56,28,Website
+610,300,Economy,41,10,Website
+611,700,Economy,83,38,Travel agency
+612,300,Economy,98,50,Telephone
+613,300,Economy,86,7,Website
+614,200,Economy,32,33,Travel agency
+615,300,Economy,94,4,Travel agency
+616,800,Economy,43,17,Telephone
+617,300,Economy,76,47,Travel agency
+618,300,Economy,65,6,Telephone
+619,300,Economy,69,5,Website
+620,300,Economy,20,49,Airfare office
+621,300,Economy,10,2,Website
+622,300,Economy,50,10,Website
+623,700,Economy,78,22,Telephone
+624,300,Economy,20,2,Travel agency
+625,800,Economy,100,18,Travel agency
+626,300,Economy,46,8,Airfare office
+627,700,Economy,28,26,Website
+628,700,Economy,96,12,Website
+629,300,Economy,25,11,Website
+630,300,Economy,66,7,Travel agency
+631,200,Economy,87,39,Travel agency
+632,800,Economy,58,16,Airfare office
+633,700,Economy,1,36,Travel agency
+634,300,Economy,69,9,Airfare office
+635,200,Economy,39,31,Airfare office
+636,700,Economy,9,21,Website
+637,300,Economy,45,48,Telephone
+638,300,Economy,23,47,Telephone
+639,200,Economy,98,39,Telephone
+640,700,Economy,58,15,Telephone
+641,700,Economy,50,42,Website
+642,200,Economy,9,30,Airfare office
+643,800,Economy,7,27,Telephone
+644,300,Economy,80,11,Telephone
+645,800,Economy,99,17,Website
+646,700,Economy,38,38,Website
+647,700,Economy,37,23,Travel agency
+648,300,Economy,87,9,Travel agency
+649,700,Economy,88,12,Telephone
+650,700,Economy,47,20,Website
+651,800,Economy,6,34,Telephone
+652,700,Economy,99,20,Travel agency
+653,300,Economy,49,40,Airfare office
+654,700,Economy,57,36,Website
+655,700,Economy,79,43,Website
+656,800,Economy,14,35,Website
+657,700,Economy,15,14,Travel agency
+658,200,Economy,34,31,Airfare office
+659,300,Economy,42,46,Telephone
+660,700,Economy,17,21,Website
+661,700,Economy,94,36,Airfare office
+662,200,Economy,56,30,Travel agency
+663,300,Economy,80,47,Website
+664,700,Economy,73,15,Airfare office
+665,700,Economy,97,36,Website
+666,200,Economy,9,32,Travel agency
+667,700,Economy,60,43,Telephone
+668,300,Economy,13,49,Telephone
+669,200,Economy,23,33,Travel agency
+670,300,Economy,48,6,Travel agency
+671,300,Economy,9,46,Travel agency
+672,800,Economy,23,16,Airfare office
+673,300,Economy,11,8,Website
+674,700,Economy,4,24,Travel agency
+675,300,Economy,87,46,Telephone
+676,800,Economy,74,17,Website
+677,700,Economy,73,43,Travel agency
+678,700,Economy,73,42,Airfare office
+679,800,Economy,87,18,Travel agency
+680,200,Economy,3,28,Airfare office
+681,300,Economy,5,11,Website
+682,800,Economy,52,35,Airfare office
+683,700,Economy,16,12,Telephone
+684,300,Economy,63,7,Airfare office
+685,800,Economy,84,35,Telephone
+686,700,Economy,91,12,Telephone
+687,300,Economy,97,2,Telephone
+688,700,Economy,41,23,Travel agency
+689,300,Economy,92,41,Telephone
+690,800,Economy,38,18,Airfare office
+691,300,Economy,35,41,Airfare office
+692,700,Economy,96,38,Telephone
+693,700,Economy,25,23,Airfare office
+694,700,Economy,97,45,Telephone
+695,700,Economy,13,45,Airfare office
+696,300,Economy,85,41,Telephone
+697,300,Economy,17,6,Telephone
+698,300,Economy,33,40,Website
+699,800,Economy,37,35,Website
+700,700,Economy,85,22,Website
+701,300,Economy,31,5,Website
+702,700,Economy,100,22,Website
+703,300,Economy,43,8,Travel agency
+704,300,Economy,87,40,Travel agency
+705,300,Economy,80,10,Website
+706,700,Economy,9,26,Telephone
+707,300,Economy,28,8,Telephone
+708,700,Economy,1,14,Telephone
+709,700,Economy,88,13,Telephone
+710,300,Economy,38,40,Travel agency
+711,300,Economy,52,7,Website
+712,700,Economy,98,24,Airfare office
+713,200,Economy,59,30,Website
+714,200,Economy,64,39,Travel agency
+715,700,Economy,25,24,Airfare office
+716,800,Economy,83,18,Travel agency
+717,700,Economy,35,23,Telephone
+718,200,Economy,78,28,Telephone
+719,300,Economy,76,41,Travel agency
+720,700,Economy,98,26,Website
+721,200,Economy,34,29,Travel agency
+722,800,Economy,54,16,Airfare office
+723,700,Economy,49,26,Website
+724,700,Economy,48,15,Airfare office
+725,300,Economy,86,4,Telephone
+726,700,Economy,8,14,Website
+727,300,Economy,81,5,Telephone
+728,800,Economy,85,16,Telephone
+729,200,Economy,3,32,Airfare office
+730,700,Economy,72,20,Airfare office
+731,300,Economy,29,41,Website
+732,300,Economy,40,41,Telephone
+733,300,Economy,29,47,Travel agency
+734,800,Economy,43,34,Telephone
+735,300,Economy,48,46,Airfare office
+736,300,Economy,49,11,Airfare office
+737,300,Economy,14,10,Telephone
+738,300,Economy,91,10,Travel agency
+739,200,Economy,42,29,Travel agency
+740,300,Economy,35,6,Travel agency
+741,300,Economy,62,7,Airfare office
+742,700,Economy,32,24,Website
+743,700,Economy,41,38,Travel agency
+744,700,Economy,24,42,Travel agency
+745,200,Economy,56,39,Travel agency
+746,800,Economy,19,17,Airfare office
+747,300,Economy,90,47,Telephone
+748,800,Economy,44,17,Telephone
+749,700,Economy,76,37,Telephone
+750,700,Economy,78,22,Airfare office
+751,200,Economy,20,31,Travel agency
+752,300,Economy,97,40,Travel agency
+753,800,Economy,57,34,Airfare office
+754,200,Economy,64,32,Website
+755,300,Economy,100,3,Travel agency
+756,200,Economy,54,31,Airfare office
+757,700,Economy,32,24,Airfare office
+758,800,Economy,78,16,Website
+759,300,Economy,19,1,Travel agency
+760,700,Economy,12,12,Website
+761,300,Economy,79,7,Website
+762,300,Economy,54,48,Travel agency
+763,300,Economy,77,2,Travel agency
+764,700,Economy,43,20,Airfare office
+765,700,Economy,62,43,Telephone
+766,300,Economy,39,50,Travel agency
+767,300,Economy,32,9,Telephone
+768,700,Economy,90,37,Telephone
+769,300,Economy,82,10,Travel agency
+770,200,Economy,59,29,Telephone
+771,700,Economy,78,45,Telephone
+772,700,Economy,78,12,Airfare office
+773,700,Economy,87,24,Telephone
+774,300,Economy,17,9,Telephone
+775,700,Economy,61,13,Travel agency
+776,300,Economy,1,10,Telephone
+777,800,Economy,30,18,Telephone
+778,700,Economy,32,24,Travel agency
+779,300,Economy,84,4,Airfare office
+780,700,Economy,81,14,Travel agency
+781,700,Economy,75,14,Website
+782,800,Economy,6,34,Website
+783,800,Economy,34,18,Travel agency
+784,200,Economy,78,30,Telephone
+785,200,Economy,54,39,Telephone
+786,200,Economy,92,29,Telephone
+787,300,Economy,2,5,Airfare office
+788,800,Economy,20,17,Airfare office
+789,800,Economy,99,17,Telephone
+790,300,Economy,83,9,Travel agency
+791,300,Economy,1,47,Website
+792,700,Economy,69,43,Airfare office
+793,800,Economy,44,27,Travel agency
+794,300,Economy,45,50,Travel agency
+795,800,Economy,51,16,Telephone
+796,700,Economy,83,36,Website
+797,800,Economy,90,35,Travel agency
+798,300,Economy,2,41,Airfare office
+799,200,Economy,14,31,Travel agency
+800,800,Economy,41,35,Travel agency
+801,700,Economy,25,19,Telephone
+802,700,Economy,58,14,Travel agency
+803,300,Economy,53,11,Airfare office
+804,700,Economy,47,12,Airfare office
+805,700,Economy,62,19,Travel agency
+806,300,Economy,16,6,Website
+807,700,Economy,31,14,Travel agency
+808,700,Economy,29,21,Travel agency
+809,200,Economy,16,31,Travel agency
+810,300,Economy,66,2,Website
+811,300,Economy,88,3,Travel agency
+812,700,Economy,47,37,Travel agency
+813,700,Economy,46,14,Travel agency
+814,300,Economy,3,6,Website
+815,700,Economy,37,26,Telephone
+816,800,Economy,11,18,Website
+817,700,Economy,92,37,Travel agency
+818,700,Economy,78,26,Travel agency
+819,300,Economy,24,2,Airfare office
+820,200,Economy,63,28,Airfare office
+821,300,Economy,51,3,Travel agency
+822,300,Economy,58,3,Travel agency
+823,700,Economy,51,38,Airfare office
+824,200,Economy,96,32,Airfare office
+825,300,Economy,33,47,Telephone
+826,700,Economy,22,36,Website
+827,200,Economy,34,32,Airfare office
+828,300,Economy,67,6,Airfare office
+829,200,Economy,32,31,Telephone
+830,300,Economy,21,7,Travel agency
+831,800,Economy,40,27,Travel agency
+832,700,Economy,91,24,Airfare office
+833,300,Economy,76,8,Telephone
+834,300,Economy,71,40,Telephone
+835,700,Economy,47,19,Travel agency
+836,300,Economy,58,9,Telephone
+837,800,Economy,67,35,Website
+838,200,Economy,18,28,Website
+839,300,Economy,32,2,Travel agency
+840,700,Economy,54,19,Airfare office
+841,300,Economy,44,8,Travel agency
+842,700,Economy,10,20,Website
+843,300,Economy,83,46,Airfare office
+844,300,Economy,89,5,Telephone
+845,800,Economy,17,16,Airfare office
+846,800,Economy,31,16,Telephone
+847,700,Economy,2,37,Website
+848,700,Economy,16,44,Travel agency
+849,300,Economy,59,10,Travel agency
+850,200,Economy,80,30,Telephone
+851,300,Economy,2,50,Telephone
+852,800,Economy,29,18,Telephone
+853,700,Economy,20,15,Travel agency
+854,800,Economy,61,18,Travel agency
+855,700,Economy,25,42,Travel agency
+856,300,Economy,51,8,Telephone
+857,300,Economy,98,48,Website
+858,300,Economy,34,8,Website
+859,200,Economy,16,31,Telephone
+860,700,Economy,40,45,Airfare office
+861,700,Economy,28,37,Travel agency
+862,300,Economy,47,47,Airfare office
+863,200,Economy,76,29,Travel agency
+864,700,Economy,39,22,Website
+865,800,Economy,92,35,Travel agency
+866,700,Economy,60,37,Telephone
+867,300,Economy,67,49,Telephone
+868,700,Economy,24,45,Website
+869,300,Economy,83,9,Telephone
+870,700,Economy,94,37,Website
+871,700,Economy,67,22,Telephone
+872,300,Economy,24,5,Airfare office
+873,200,Economy,80,32,Telephone
+874,800,Economy,36,27,Travel agency
+875,700,Economy,79,45,Website
+876,700,Economy,13,26,Travel agency
+877,700,Economy,27,24,Telephone
+878,300,Economy,85,41,Airfare office
+879,700,Economy,42,14,Airfare office
+880,700,Economy,32,43,Travel agency
+881,200,Economy,59,30,Website
+882,300,Economy,13,40,Airfare office
+883,700,Economy,87,37,Travel agency
+884,700,Economy,8,44,Website
+885,700,Economy,72,14,Travel agency
+886,800,Economy,34,35,Travel agency
+887,700,Economy,63,26,Travel agency
+888,300,Economy,96,10,Travel agency
+889,200,Economy,56,39,Travel agency
+890,300,Economy,54,9,Airfare office
+891,800,Economy,98,35,Airfare office
+892,700,Economy,84,12,Airfare office
+893,300,Economy,46,48,Telephone
+894,700,Economy,39,23,Website
+895,700,Economy,50,42,Website
+896,800,Economy,99,17,Website
+897,300,Economy,78,1,Telephone
+898,300,Economy,9,8,Website
+899,200,Economy,85,29,Travel agency
+900,200,Economy,2,28,Travel agency
+901,2800,Business,13,36,Website
+902,2800,Business,83,25,Website
+903,2800,Business,35,34,Travel agency
+904,2800,Business,61,24,Telephone
+905,2800,Business,55,44,Travel agency
+906,1800,Business,50,11,Website
+907,2800,Business,88,15,Airfare office
+908,2800,Business,78,24,Airfare office
+909,1800,Business,8,48,Website
+910,2800,Business,23,34,Airfare office
+911,2800,Business,56,19,Telephone
+912,1800,Business,50,47,Website
+913,1800,Business,34,47,Telephone
+914,2800,Business,12,26,Website
+915,1800,Business,89,7,Travel agency
+916,2800,Business,82,35,Travel agency
+917,1800,Business,78,8,Website
+918,2800,Business,66,15,Telephone
+919,2800,Business,17,16,Website
+920,1800,Business,54,5,Telephone
+921,1500,Business,88,29,Website
+922,2800,Business,26,26,Telephone
+923,2800,Business,98,38,Telephone
+924,1500,Business,95,30,Airfare office
+925,2800,Business,76,21,Travel agency
+926,1800,Business,47,3,Airfare office
+927,1800,Business,51,4,Website
+928,1500,Business,26,31,Travel agency
+929,2800,Business,56,37,Travel agency
+930,2800,Business,48,18,Airfare office
+931,2800,Business,80,37,Airfare office
+932,2800,Business,99,35,Telephone
+933,2800,Business,18,42,Airfare office
+934,1800,Business,10,1,Travel agency
+935,1500,Business,31,28,Travel agency
+936,2800,Business,92,35,Website
+937,1800,Business,25,10,Airfare office
+938,1800,Business,89,49,Website
+939,2800,Business,42,23,Telephone
+940,1800,Business,93,3,Website
+941,1500,Business,83,28,Travel agency
+942,1800,Business,47,48,Travel agency
+943,1800,Business,75,9,Travel agency
+944,2800,Business,83,13,Telephone
+945,2800,Business,99,19,Travel agency
+946,2800,Business,70,17,Telephone
+947,1500,Business,36,31,Website
+948,1500,Business,62,28,Airfare office
+949,1800,Business,21,50,Website
+950,2800,Business,58,15,Airfare office
+951,1800,Business,57,3,Airfare office
+952,1500,Business,96,29,Telephone
+953,1800,Business,63,7,Website
+954,2800,Business,90,42,Telephone
+955,2800,Business,90,21,Travel agency
+956,2800,Business,48,14,Website
+957,1800,Business,93,2,Telephone
+958,2800,Business,99,25,Travel agency
+959,1800,Business,96,6,Telephone
+960,1500,Business,42,29,Website
+961,1800,Business,87,3,Telephone
+962,2800,Business,56,17,Airfare office
+963,1800,Business,60,2,Airfare office
+964,2800,Business,67,35,Website
+965,2800,Business,28,21,Telephone
+966,2800,Business,88,12,Travel agency
+967,2800,Business,77,22,Airfare office
+968,1800,Business,81,47,Website
+969,1800,Business,85,3,Travel agency
+970,2800,Business,88,35,Website
+971,1800,Business,90,9,Website
+972,2800,Business,35,27,Website
+973,2800,Business,2,14,Travel agency
+974,2800,Business,15,42,Telephone
+975,2800,Business,7,34,Telephone
+976,1500,Business,14,28,Telephone
+977,2800,Business,75,42,Travel agency
+978,1800,Business,43,49,Telephone
+979,2800,Business,49,13,Telephone
+980,2800,Business,69,43,Website
+981,2800,Business,27,35,Travel agency
+982,1800,Business,6,40,Airfare office
+983,2800,Business,88,16,Website
+984,2800,Business,77,24,Telephone
+985,2800,Business,84,45,Airfare office
+986,1800,Business,24,41,Telephone
+987,2800,Business,25,23,Travel agency
+988,2800,Business,62,42,Telephone
+989,2800,Business,75,19,Airfare office
+990,2800,Business,14,19,Airfare office
+991,1800,Business,89,5,Telephone
+992,2800,Business,61,15,Website
+993,1800,Business,64,10,Travel agency
+994,2800,Business,78,27,Travel agency
+995,2800,Business,6,43,Travel agency
+996,2800,Business,35,45,Website
+997,1800,Business,86,47,Travel agency
+998,2800,Business,48,26,Travel agency
+999,2800,Business,97,43,Telephone
+1000,2800,Business,79,36,Airfare office
